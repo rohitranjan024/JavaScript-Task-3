@@ -1,0 +1,43 @@
+div{
+    margin-top: 10px;;
+}
+
+
+textarea {
+    resize: vertical;
+    width: 300px;
+    height: 100px;
+    vertical-align: top;
+}
+
+.n{
+    margin-left: 27px;
+}
+
+.e{
+    margin-left: 27px;
+}
+
+.w{
+    margin-left: 15px;
+}
+
+.m{
+    margin-left: 10px;
+}
+
+button{
+    margin-left: 75px;;
+}
+.error {
+    color: red;
+    
+  }
+
+.input-error {
+    border: 2px solid red;
+  }
+
+  .error-border {
+    border: 1px solid red;
+  }
